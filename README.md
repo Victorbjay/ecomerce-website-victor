@@ -30,13 +30,31 @@ Users should be able to:
 
 ### Screenshot
 
-![](./public/images/desktop-preview.jpg)
-_(Note: Replace with your final screenshot path if different)_
+**Desktop View**
+
+![Desktop view of the project](./src/assets/design/desktop-design.jpg)
+
+<br>
+
+<details>
+  <summary><strong>Click to expand: Mobile & Active States</strong></summary>
+  <br>
+  <table>
+    <tr>
+      <td><img src="./src/assets/design/mobile-design-basket-empty.jpg.jpg" alt="Active State on Mobile" width="375"></td>
+      <td><img src="./src/assets/design/mobile-design-basket-filled.jpg" alt="Mobile View with Completed State" width="375"></td>
+    </tr>
+    <tr>
+      <td><img src="./src/assets/design/mobile-menu.jpg" alt="Mobile View with Menu" width="375"></td>
+      <td><img src="./src/assets/design/mobile-design.jpg" alt="Mobile View " width="375"></td>
+    </tr>
+  </table>
+</details>
 
 ### Links
 
-- **Solution URL:** [Add your GitHub repo URL here](https://your-solution-url.com)
-- **Live Site URL:** [Add your live site URL here](https://your-live-site-url.com)
+- **Solution URL:** [Github](https://github.com/Victorbjay/ecomerce-website-victor.git)
+- **Live Site URL:** [Live site](https://ecomerce-website-victor.vercel.app/)
 
 ## My process
 
@@ -88,8 +106,8 @@ This project has solidified my core React skills. For future projects, I am exci
 
 ## Author
 
-- **Website** - [Victor Okpe](https://www...com)
-- **Frontend Mentor** - [@yourusername](https://www.frontendmentor.io/profile/Emkajnr)
+- **Website** - [Victor Okpe](https://github.com/Victorbjay/)
+- **Frontend Mentor** - [@Emkajnr](https://www.frontendmentor.io/profile/Emkajnr)
 
 ## Acknowledgments
 
